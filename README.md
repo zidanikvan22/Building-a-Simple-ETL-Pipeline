@@ -1,4 +1,4 @@
-##*Proyek Akhir: Membangun ETL Pipeline Sederhana - Zidan M Ikvan*
+## *Proyek Akhir: Membangun ETL Pipeline Sederhana - Zidan M Ikvan*
 
 #### Menjalankan skrip
 python main.py
